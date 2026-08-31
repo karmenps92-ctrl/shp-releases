@@ -1,23 +1,25 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-08-31T01:00:00.000Z",
-  "total": 2,
+  "updatedAt": "2026-08-31T07:09:32.970Z",
+  "total": 1,
   "announcements": [
     {
       "id": "ann-1",
-      "title": "Bienvenido a Proyecto S.HP v1.3.2",
-      "summary": "Explora los nuevos Ajustes refactorizados, la suite de notas Markdown y el gestor de anuncios.",
-      "content": "### Novedades en S.HP v1.3.2\n- **Ajustes Modernizados:** Panel por pestañas con selector visual de temas.\n- **Interruptores Switch Táctiles:** Mayor fluidez y respuesta visual.\n- **S.HP Admin:** Centro de control administrativo y gestión de comunicados.",
+      "title": "Bienvenido a Proyecto S.HP v1.3.1",
+      "summary": "Explora la nueva suite de notas inteligentes, traductor multimodal y selección por teclado.",
+      "content": "### Novedades destacadas en S.HP\n- **Estudio de Notas Markdown:** Formato en vivo, checklist, fórmulas y callouts.\n- **Traductor Multimodal:** Síntesis de voz y selector de tono asistido por IA.\n- **Ajustes Refactorizados:** Navegación por pestañas y personalización fluida.",
       "type": "novedad",
-      "displayMode": "banner",
+      "displayMode": "modal",
       "priority": "alta",
       "author": "Equipo S.HP",
-      "actionLabel": "Ver Novedades",
+      "actionLabel": "Ver Documentación",
       "actionUrl": "https://github.com/karmenps92-ctrl/shp-releases",
-      "createdAt": "2026-08-31T01:00:00.000Z",
+      "createdAt": "2026-08-31T05:56:37.525Z",
       "isActive": true,
       "pinned": true,
-      "targetVersions": ["*"]
+      "targetVersions": [
+        "*"
+      ]
     }
   ]
 }

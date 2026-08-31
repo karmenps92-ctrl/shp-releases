@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-08-31T01:00:00.000Z",
+  "total": 2,
+  "announcements": [
+    {
+      "id": "ann-1",
+      "title": "Bienvenido a Proyecto S.HP v1.3.2",
+      "summary": "Explora los nuevos Ajustes refactorizados, la suite de notas Markdown y el gestor de anuncios.",
+      "content": "### Novedades en S.HP v1.3.2\n- **Ajustes Modernizados:** Panel por pestañas con selector visual de temas.\n- **Interruptores Switch Táctiles:** Mayor fluidez y respuesta visual.\n- **S.HP Admin:** Centro de control administrativo y gestión de comunicados.",
+      "type": "novedad",
+      "displayMode": "banner",
+      "priority": "alta",
+      "author": "Equipo S.HP",
+      "actionLabel": "Ver Novedades",
+      "actionUrl": "https://github.com/karmenps92-ctrl/shp-releases",
+      "createdAt": "2026-08-31T01:00:00.000Z",
+      "isActive": true,
+      "pinned": true,
+      "targetVersions": ["*"]
+    }
+  ]
+}

@@ -1,23 +1,24 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-08-31T07:31:30.648Z",
+  "updatedAt": "2026-08-31T07:53:54.763Z",
   "total": 1,
   "announcements": [
     {
-      "id": "ann-1788160801313",
-      "title": "hola",
-      "summary": "",
-      "content": "",
-      "type": "novedad",
+      "id": "ann-1788162730727",
+      "title": "Hola atodos pavos y pavas!!",
+      "summary": "En unas horas actualizare la app!!",
+      "content": "La nueva v1.3.5 se viene!!",
+      "type": "mantenimiento",
       "displayMode": "banner",
-      "priority": "media",
+      "priority": "alta",
       "author": "Administrador de S.HP",
-      "createdAt": "2026-08-31T07:20:01.313Z",
+      "createdAt": "2026-08-31T07:52:10.727Z",
       "isActive": true,
       "pinned": true,
       "targetVersions": [
         "*"
-      ]
+      ],
+      "actionLabel": "Aseptar uwu"
     }
   ]
 }

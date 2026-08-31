@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-08-31T07:20:18.402Z",
-  "total": 2,
+  "updatedAt": "2026-08-31T07:31:30.648Z",
+  "total": 1,
   "announcements": [
     {
       "id": "ann-1788160801313",
@@ -14,25 +14,7 @@
       "author": "Administrador de S.HP",
       "createdAt": "2026-08-31T07:20:01.313Z",
       "isActive": true,
-      "pinned": false,
-      "targetVersions": [
-        "*"
-      ]
-    },
-    {
-      "id": "ann-1",
-      "title": "Bienvenido a Proyecto S.HP v1.3.1",
-      "summary": "Explora la nueva suite de notas inteligentes, traductor multimodal y selección por teclado.",
-      "content": "### Novedades destacadas en S.HP\n- **Estudio de Notas Markdown:** Formato en vivo, checklist, fórmulas y callouts.\n- **Traductor Multimodal:** Síntesis de voz y selector de tono asistido por IA.\n- **Ajustes Refactorizados:** Navegación por pestañas y personalización fluida.",
-      "type": "novedad",
-      "displayMode": "modal",
-      "priority": "alta",
-      "author": "Equipo S.HP",
-      "actionLabel": "Ver Documentación",
-      "actionUrl": "https://github.com/karmenps92-ctrl/shp-releases",
-      "createdAt": "2026-08-31T05:56:37.525Z",
-      "isActive": true,
-      "pinned": false,
+      "pinned": true,
       "targetVersions": [
         "*"
       ]
